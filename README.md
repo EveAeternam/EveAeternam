@@ -1,11 +1,9 @@
-## Hi there 👋
+### Evie Minet
 
-- 🔭 I’m currently working on building my own EV Motorcycle!
-- 🌱 I’m currently learning Qt, WinUI 3, Tengwar & Cirth ConScripts
-- 👯 I’m looking to collaborate on CAN-Bus, HMI-UX, and PCB Design
-- 🤔 I’m looking for help with UX Design and Qt dev
-- 💬 Ask me about my EV motocycle!
-- 📫 How to reach me: eviemi.net
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: There is 50 y/o poop on the Moon.
-- 🗺️ I speak English, French, Serbian, Spanish and Thai
+Systems engineer on Florida's Space Coast: requirements and verification for regulated systems, digital twins, Python automation and EV powertrains. B.S. Aerospace and B.S. Aeronautical Engineering, Florida Tech.
+
+- **Portfolio and résumé:** [portfolio.eviemi.net](https://portfolio.eviemi.net), with case studies and each job posting's requirements traced to evidence
+- **Shell:B:** [ShellB-App/Shell-B](https://github.com/ShellB-App/Shell-B), an open-source local multi-agent AI workstation
+- **EV motorcycle:** a fire-gutted 2000 Kawasaki ZR-750F rebuilt as a road-legal EV, with my own BMS, motor controller, charger and CAN speedometer
+
+She/her · English, French, Serbian, Spanish, Thai
